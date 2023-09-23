@@ -50,15 +50,15 @@
 5. Process continues until all slots are filled. If full, “NO SLOTS AVAILABLE” is displayed.
 
 ## **Results**:
-- Server Output
+### **Server Output** ###
 - ![Fig 1](images/Fig%201%20Server%20Output.png)
-- Client 1 Output
+### **Client 1 Output** ###
 - ![Fig 2](images/Fig%202%20Client%201%20Output.png)
-- Client 2 Output
+### **Client 2 Output** ###
 - ![Fig 3](images/Fig%203%20Client%202%20Output.png)
-- GUI Output
+### ** GUI Output** ###
 - ![Fig 4](images/Fig%204%20GUI%20Output.png)
-- Stored Data from Server
+### **Stored Data from Server** ###
 - ![Fig 6](images/Fig%206%20Data%20which%20is%20stored%20from%20server.png)
 
 ## **Conclusion**:
