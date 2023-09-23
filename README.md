@@ -61,6 +61,9 @@
 ### **Stored Data from Server** ###
 - ![Fig 6](images/Fig%206%20Data%20which%20is%20stored%20from%20server.png)
 
+## **Demo Video** ##
+(Demo)[https://youtu.be/0LqC1tChRaw]
+
 ## **Conclusion**:
 - Effective real-time monitoring system using a client-server architecture.
 - Seamless communication enabled through socket programming.
