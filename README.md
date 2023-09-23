@@ -63,7 +63,7 @@
 
 ## **Demo Video** ##
 
-!(Demo)[https://youtu.be/0LqC1tChRaw]
+![Demo](https://youtu.be/0LqC1tChRaw)
 
 ## **Conclusion**:
 - Effective real-time monitoring system using a client-server architecture.
