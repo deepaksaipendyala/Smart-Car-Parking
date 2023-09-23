@@ -56,13 +56,14 @@
 - ![Fig 2](images/Fig%202%20Client%201%20Output.png)
 ### **Client 2 Output** ###
 - ![Fig 3](images/Fig%203%20Client%202%20Output.png)
-### ** GUI Output** ###
+### **GUI Output** ###
 - ![Fig 4](images/Fig%204%20GUI%20Output.png)
 ### **Stored Data from Server** ###
 - ![Fig 6](images/Fig%206%20Data%20which%20is%20stored%20from%20server.png)
 
 ## **Demo Video** ##
-(Demo)[https://youtu.be/0LqC1tChRaw]
+
+1(Demo)[https://youtu.be/0LqC1tChRaw]
 
 ## **Conclusion**:
 - Effective real-time monitoring system using a client-server architecture.
