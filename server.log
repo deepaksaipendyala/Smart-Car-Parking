@@ -1,0 +1,143 @@
+2023-06-13 18:45:07,267 - Received data from 192.168.191.200: 
+2023-06-13 18:45:13,392 - Received data from 192.168.191.200: 
+2023-06-13 18:45:19,532 - Received data from 192.168.191.200: 
+2023-06-13 18:45:25,688 - Received data from 192.168.191.200: 
+2023-06-13 18:45:31,845 - Received data from 192.168.191.200: 
+2023-06-13 18:45:37,970 - Received data from 192.168.191.200: 
+2023-06-13 18:48:17,514 - Received data from 192.168.191.200: b'\x01\x02\x03\x04'
+2023-06-13 18:48:17,514 - Error handling client 192.168.191.200: name 'slots' is not defined
+2023-06-13 18:58:30,477 - Received data from 192.168.191.200: b'\x01\x02\x03\x04'
+2023-06-13 18:58:30,477 - Error handling client 192.168.191.200: name 'slots' is not defined
+2023-06-13 18:59:17,683 - Received data from 192.168.191.200: b'\x01\x03\x04'
+2023-06-13 18:59:17,683 - Error handling client 192.168.191.200: name 'slots' is not defined
+2023-06-13 19:01:36,334 - Received data from 192.168.191.200: b'\x01\x03\x04'
+2023-06-13 19:01:36,334 - Error handling client 192.168.191.200: name 'slots' is not defined
+2023-06-13 19:05:45,467 - Received data from 192.168.191.200: b'\x01\x02\x03\x04'
+2023-06-13 19:05:45,467 - Error handling client 192.168.191.200: local variable 'slots' referenced before assignment
+2023-06-13 19:08:50,153 - Received data from 192.168.191.200: b'\x01\x02\x03\x04'
+2023-06-13 19:08:50,153 - Error handling client 192.168.191.200: local variable 'slots' referenced before assignment
+2023-06-13 19:11:22,983 - Received data from 192.168.191.200: b'\x01\x02\x03\x04'
+2023-06-13 19:11:22,983 - Error handling client 192.168.191.200: local variable 'slots' referenced before assignment
+2023-06-13 19:12:09,331 - Received data from 192.168.191.200: b'\x01\x02\x03\x04'
+2023-06-13 19:12:09,331 - Error handling client 192.168.191.200: local variable 'slots' referenced before assignment
+2023-06-13 19:15:09,861 - Error handling client 192.168.191.200: name 'c' is not defined
+2023-06-13 19:18:34,707 - Error handling client 192.168.191.3: local variable 'x' referenced before assignment
+2023-06-13 19:21:23,187 - Error handling client 192.168.191.3: local variable 'x' referenced before assignment
+2023-06-13 19:23:12,145 - Received data from 192.168.191.3: b''
+2023-06-13 19:23:12,410 - Error handling client 192.168.191.3: [WinError 10053] An established connection was aborted by the software in your host machine
+2023-06-13 19:23:14,707 - Received data from 192.168.191.3: b''
+2023-06-13 19:23:14,723 - Error handling client 192.168.191.3: [WinError 10053] An established connection was aborted by the software in your host machine
+2023-06-13 19:25:36,789 - Received data from 192.168.191.3: b'HI'
+2023-06-13 19:25:36,945 - Received data from 192.168.191.3: b'Connection closing'
+2023-06-13 19:25:36,945 - Error handling client 192.168.191.3: [WinError 10053] An established connection was aborted by the software in your host machine
+2023-06-13 19:27:19,603 - Error handling client 192.168.191.3: local variable 'dict' referenced before assignment
+2023-06-13 19:28:24,871 - Error handling client 192.168.191.200: local variable 'dict' referenced before assignment
+2023-06-13 19:28:27,288 - Error handling client 192.168.191.3: local variable 'dict' referenced before assignment
+2023-06-13 19:30:14,342 - Error handling client 192.168.191.200: local variable 'dict' referenced before assignment
+2023-06-13 19:37:54,162 - Error handling client 192.168.191.200: local variable 'dict' referenced before assignment
+2023-06-13 19:39:26,636 - Error handling client 192.168.191.3: local variable 'dict' referenced before assignment
+2023-06-13 19:39:34,224 - Error handling client 192.168.191.3: local variable 'dict' referenced before assignment
+2023-06-13 19:40:22,741 - Error handling client 192.168.191.3: local variable 'dict' referenced before assignment
+2023-06-13 19:43:14,733 - Error handling client 192.168.191.200: list assignment index out of range
+2023-06-13 19:45:59,595 - Error handling client 192.168.191.3: local variable 'dict' referenced before assignment
+2023-06-13 19:46:22,531 - Error handling client 192.168.191.3: local variable 'dict' referenced before assignment
+2023-06-13 19:48:26,386 - Error handling client 192.168.191.3: local variable 'dict' referenced before assignment
+2023-06-13 21:18:49,964 - Error handling client 192.168.191.3: local variable 'dict' referenced before assignment
+2023-06-13 21:21:42,287 - Error handling client 192.168.191.3: '192.168.191.200'
+2023-06-13 21:28:00,253 - Received data from 192.168.191.3: b'HI'
+2023-06-13 21:28:00,253 - Error handling client 192.168.191.3: cannot convert 'NoneType' object to bytes
+2023-06-13 21:28:57,441 - Received data from 192.168.191.3: b'HI'
+2023-06-13 21:28:57,441 - Error handling client 192.168.191.3: cannot convert 'NoneType' object to bytes
+2023-06-13 21:29:17,368 - Received data from 192.168.191.3: b'HI'
+2023-06-13 21:29:17,368 - Error handling client 192.168.191.3: cannot convert 'NoneType' object to bytes
+2023-06-13 21:30:23,146 - Received data from 192.168.191.3: b'HI'
+2023-06-13 21:30:23,146 - Error handling client 192.168.191.3: '192.168.191.200'
+2023-06-13 21:38:23,766 - Received data from 192.168.191.3: b'HI'
+2023-06-13 21:38:24,011 - Received data from 192.168.191.3: b'This is a hello from client Raspi'
+2023-06-13 21:39:24,184 - Received data from 192.168.191.3: b'slot1'
+2023-06-13 21:39:27,763 - Received data from 192.168.191.3: b'slot1'
+2023-06-13 21:39:31,856 - Received data from 192.168.191.3: b'slot1'
+2023-06-13 22:02:02,249 - Error handling client 192.168.191.3: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2023-06-13 22:07:58,451 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:08:18,327 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:08:30,092 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:08:38,437 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:08:42,640 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:08:58,875 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:09:28,470 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:09:33,799 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:10:13,222 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:11:29,244 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:12:19,486 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:21:11,789 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:29:17,538 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:29:22,132 - Error handling client 192.168.191.3: a bytes-like object is required, not 'list'
+2023-06-13 22:38:49,734 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 22:40:07,470 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 22:40:23,955 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 22:40:43,108 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 22:40:47,295 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 22:43:50,488 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 22:49:47,462 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 22:51:36,088 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 22:52:06,766 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 22:56:59,459 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:04:22,169 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:10:19,867 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:12:11,915 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:15:55,636 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:20:27,688 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:21:16,878 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:22:27,816 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:26:04,160 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:26:43,504 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:27:44,599 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:32:36,908 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:33:06,673 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:33:30,470 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:34:48,445 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:42:23,727 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:45:28,599 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-13 23:53:56,925 - Error handling client 192.168.191.200: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20968 and this is thread id 2200.
+2023-06-13 23:54:24,108 - Error handling client 192.168.191.200: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20968 and this is thread id 12828.
+2023-06-14 00:30:40,116 - Error handling client 192.168.191.200: insert_data() takes 3 positional arguments but 4 were given
+2023-06-14 00:31:39,258 - Error handling client 192.168.191.200: insert_data() takes 3 positional arguments but 4 were given
+2023-06-14 00:37:45,446 - Error handling client 192.168.191.200: insert_data() takes 2 positional arguments but 4 were given
+2023-06-14 00:39:09,567 - Error handling client 192.168.191.200: insert_data() takes 2 positional arguments but 4 were given
+2023-06-14 00:53:22,742 - Error handling client 192.168.191.200: name 'datetime' is not defined
+2023-06-14 00:57:36,689 - Error handling client 192.168.191.200: insert_data() takes 2 positional arguments but 4 were given
+2023-06-14 09:29:59,945 - Error handling client 192.168.191.200: insert_data() takes 2 positional arguments but 4 were given
+2023-06-14 09:31:35,015 - Received data from 192.168.191.3: b'HI'
+2023-06-14 09:31:35,015 - Error handling client 192.168.191.3: cannot convert 'NoneType' object to bytes
+2023-06-14 09:32:38,357 - Received data from 192.168.191.3: b'HI'
+2023-06-14 09:32:38,357 - Error handling client 192.168.191.3: cannot convert 'NoneType' object to bytes
+2023-06-14 09:34:53,569 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-14 09:49:55,970 - Error handling client 192.168.191.200: a bytes-like object is required, not 'str'
+2023-06-14 09:50:04,236 - Error handling client 192.168.191.3: a bytes-like object is required, not 'str'
+2023-06-14 09:53:50,826 - Error handling client 192.168.191.200: a bytes-like object is required, not 'str'
+2023-06-14 09:55:26,530 - Error handling client 192.168.191.200: a bytes-like object is required, not 'str'
+2023-06-14 09:57:46,094 - Error handling client 192.168.191.200: a bytes-like object is required, not 'str'
+2023-06-14 09:58:21,485 - Error handling client 192.168.191.200: a bytes-like object is required, not 'str'
+2023-06-14 10:01:42,239 - Error handling client 192.168.191.3: a bytes-like object is required, not 'str'
+2023-06-14 10:07:24,835 - Error handling client 192.168.191.3: [WinError 10054] An existing connection was forcibly closed by the remote host
+2023-06-14 10:12:29,053 - Error handling client 192.168.191.200: Calling Tcl from different apartment
+2023-06-14 10:12:38,069 - Error handling client 192.168.191.3: 'NoneType' object is not subscriptable
+2023-06-14 10:18:42,446 - Error handling client 192.168.191.200: Calling Tcl from different apartment
+2023-06-14 10:23:04,483 - Error handling client 192.168.191.200: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 18044 and this is thread id 2944.
+2023-06-14 10:23:13,905 - Error handling client 192.168.191.3: 'NoneType' object is not subscriptable
+2023-06-14 10:26:02,504 - Error handling client 192.168.191.200: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 2504 and this is thread id 3920.
+2023-06-14 10:26:51,193 - Error handling client 192.168.191.3: 'NoneType' object is not subscriptable
+2023-06-14 10:26:56,763 - Error handling client 192.168.191.3: 'NoneType' object is not subscriptable
+2023-06-14 10:26:58,263 - Error handling client 192.168.191.3: 'NoneType' object is not subscriptable
+2023-06-14 10:27:15,075 - Error handling client 192.168.191.3: 'NoneType' object is not subscriptable
+2023-06-14 10:27:16,591 - Error handling client 192.168.191.3: 'NoneType' object is not subscriptable
+2023-06-14 10:27:18,356 - Error handling client 192.168.191.3: 'NoneType' object is not subscriptable
+2023-06-14 10:30:13,279 - Error handling client 192.168.191.3: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 16824 and this is thread id 19824.
+2023-06-14 10:31:09,962 - Error handling client 192.168.191.3: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 19704 and this is thread id 20152.
+2023-06-14 10:35:12,244 - Error handling client 192.168.191.3: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 1252 and this is thread id 22068.
+2023-06-14 10:39:19,352 - Error handling client 192.168.191.3: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 13372 and this is thread id 7608.
+2023-06-14 10:39:50,054 - Error handling client 192.168.191.3: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 6836 and this is thread id 8800.
+2023-06-14 10:40:35,271 - Error handling client 192.168.191.3: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 20164 and this is thread id 3700.
+2023-06-14 10:48:11,143 - Error handling client 192.168.191.3: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 21652 and this is thread id 12556.
+2023-06-14 10:51:00,273 - Error handling client 192.168.191.200: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14436 and this is thread id 2792.
+2023-06-14 10:53:00,926 - Error handling client 192.168.191.200: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 14436 and this is thread id 20060.
