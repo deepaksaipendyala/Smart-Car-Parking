@@ -42,7 +42,7 @@
 - Data updates (e.g., car entry, time, slot) are managed in the database and GUI.
 
 ## **Process Flow**:
-![Fig 1](images/CNIC flow.png)
+![Fig 1](./images/CNIC%20flow.png)
 1. Vehicle approaches the Pico at the entry gate.
 2. SCADA master communicates with Pico in the parking area.
 3. Available parking slots are displayed at the entrance.
@@ -50,11 +50,16 @@
 5. Process continues until all slots are filled. If full, “NO SLOTS AVAILABLE” is displayed.
 
 ## **Results**:
-- Server Output ![Fig 1](images/Fig 1 Server Output.png)
-- Client 1 Output ![Fig 2](images/Fig 2 Client 1 Output.png)
-- Client 2 Output ![Fig 3](images/Fig 3 Client 2 Output.png)
-- GUI Output ![Fig 4](images/Fig 4 GUI Output.png)
-- Stored Data from Server ![Fig 6](images/Fig 6 Data which is stored from server.png)
+- Server Output
+  ![Fig 1](images/Fig%201%20Server%20Output.png)
+- Client 1 Output
+  ![Fig 2](images/Fig%202%20Client%201%20Output.png)
+- Client 2 Output
+  ![Fig 3](images/Fig%203%20Client%202%20Output.png)
+- GUI Output
+  ![Fig 4](images/Fig%204%20GUI%20Output.png)
+- Stored Data from Server
+   ![Fig 6](images/Fig%206%20Data%20which%20is%20stored%20from%20server.png)
 
 ## **Conclusion**:
 - Effective real-time monitoring system using a client-server architecture.
