@@ -5,6 +5,9 @@
 - Display the best available slots to drivers.
 - Implement and control the system over a SCADA network system.
 
+## **Demo Video** ##
+[![DEMO](http://img.youtube.com/vi/0LqC1tChRaw/0.jpg)](http://www.youtube.com/watch?v=0LqC1tChRaw "Smart car Parking system using scada")
+
 ## **Abstract**:
 - Use sensors to detect available parking slots.
 - Send this information to a central server.
@@ -60,10 +63,6 @@
 - ![Fig 4](images/Fig%204%20GUI%20Output.png)
 ### **Stored Data from Server** ###
 - ![Fig 6](images/Fig%206%20Data%20which%20is%20stored%20from%20server.png)
-
-## **Demo Video** ##
-
-![Demo](https://youtu.be/0LqC1tChRaw)
 
 ## **Conclusion**:
 - Effective real-time monitoring system using a client-server architecture.
